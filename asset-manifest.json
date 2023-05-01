@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/useref-portal/static/css/main.5736934d.css",
+    "main.js": "/useref-portal/static/js/main.eb40e34e.js",
+    "index.html": "/useref-portal/index.html",
+    "main.5736934d.css.map": "/useref-portal/static/css/main.5736934d.css.map",
+    "main.eb40e34e.js.map": "/useref-portal/static/js/main.eb40e34e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5736934d.css",
+    "static/js/main.eb40e34e.js"
+  ]
+}
