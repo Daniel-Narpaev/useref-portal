@@ -1,0 +1,49 @@
+.Addbtn {
+    background-color: orange;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 6px;
+    color: white;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+.Editbtn {
+    background-color: rgb(5, 1, 255);
+    border: none;
+    padding: 10px;
+    border-radius: 6px;
+    color: white;
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-right: 10px;
+}
+.Deletebtn {
+    background-color: rgb(255, 30, 0);
+    border: none;
+    padding: 10px;
+    border-radius: 6px;
+    color: white;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+.btnBlue{
+    background-color: rgb(4, 20, 236);
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 1.1rem;
+    color:white;
+    border:none;
+    margin-left: 20px;
+}
+.btnWhite{
+    background-color: rgb(255, 255, 255);
+    padding: 10px ;
+    border: none;
+    /* box-shadow: 0px 0px 5px 2px rgb(180, 176, 176); */
+    border-radius: 4px;
+    font-size: 1.1rem;
+    color:rgb(0, 4, 255);
+}
+.btnWhite:hover {
+    background-color: rgb(194, 182, 238);
+}
